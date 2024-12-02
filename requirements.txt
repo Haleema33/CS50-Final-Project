@@ -1,0 +1,5 @@
+
+you need to install numpy using pip:
+
+"pip install numpy"
+
